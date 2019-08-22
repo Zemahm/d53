@@ -1,0 +1,22 @@
+F:\D53 Console app\Degree53\Degree53\bin\Debug\netcoreapp2.2\Degree53.deps.json
+F:\D53 Console app\Degree53\Degree53\bin\Debug\netcoreapp2.2\Degree53.runtimeconfig.json
+F:\D53 Console app\Degree53\Degree53\bin\Debug\netcoreapp2.2\Degree53.runtimeconfig.dev.json
+F:\D53 Console app\Degree53\Degree53\bin\Debug\netcoreapp2.2\Degree53.dll
+F:\D53 Console app\Degree53\Degree53\bin\Debug\netcoreapp2.2\Degree53.pdb
+F:\D53 Console app\Degree53\Degree53\obj\Debug\netcoreapp2.2\Degree53.csprojAssemblyReference.cache
+F:\D53 Console app\Degree53\Degree53\obj\Debug\netcoreapp2.2\Degree53.csproj.CoreCompileInputs.cache
+F:\D53 Console app\Degree53\Degree53\obj\Debug\netcoreapp2.2\Degree53.AssemblyInfoInputs.cache
+F:\D53 Console app\Degree53\Degree53\obj\Debug\netcoreapp2.2\Degree53.AssemblyInfo.cs
+F:\D53 Console app\Degree53\Degree53\obj\Debug\netcoreapp2.2\Degree53.dll
+F:\D53 Console app\Degree53\Degree53\obj\Debug\netcoreapp2.2\Degree53.pdb
+C:\Users\zmahm\Desktop\Degree53\Degree53\bin\Debug\netcoreapp2.2\Degree53.deps.json
+C:\Users\zmahm\Desktop\Degree53\Degree53\bin\Debug\netcoreapp2.2\Degree53.runtimeconfig.json
+C:\Users\zmahm\Desktop\Degree53\Degree53\bin\Debug\netcoreapp2.2\Degree53.runtimeconfig.dev.json
+C:\Users\zmahm\Desktop\Degree53\Degree53\bin\Debug\netcoreapp2.2\Degree53.dll
+C:\Users\zmahm\Desktop\Degree53\Degree53\bin\Debug\netcoreapp2.2\Degree53.pdb
+C:\Users\zmahm\Desktop\Degree53\Degree53\obj\Debug\netcoreapp2.2\Degree53.csprojAssemblyReference.cache
+C:\Users\zmahm\Desktop\Degree53\Degree53\obj\Debug\netcoreapp2.2\Degree53.csproj.CoreCompileInputs.cache
+C:\Users\zmahm\Desktop\Degree53\Degree53\obj\Debug\netcoreapp2.2\Degree53.AssemblyInfoInputs.cache
+C:\Users\zmahm\Desktop\Degree53\Degree53\obj\Debug\netcoreapp2.2\Degree53.AssemblyInfo.cs
+C:\Users\zmahm\Desktop\Degree53\Degree53\obj\Debug\netcoreapp2.2\Degree53.dll
+C:\Users\zmahm\Desktop\Degree53\Degree53\obj\Debug\netcoreapp2.2\Degree53.pdb
